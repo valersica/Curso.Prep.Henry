@@ -1,0 +1,2 @@
+1- bucle for se usa para repetir un codigo sin tener que escribirlo cada vez, dadas ciertas condiciones y valores.
+2- objetos: && significa Y y  se usa dentro de los bucles para establecer condiciones agrupadas (si tal condicion Y tal otra suceden). || significa O en condiciones agrupadas (si tal cosa O tal otra sucede). y por ultimo ! se usa para negar lo que viene luego, por ejemplo "no es igual" se escribe !==.
